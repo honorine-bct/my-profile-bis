@@ -1,0 +1,31 @@
+h2 {
+  color: #08386E 
+	font-size: 20px;
+	font-family: Helvetica;
+}
+
+body {
+  color: rgb(10, 10, 10);     /* Text color */
+	background-color: #D0E6F0;/* Background color */  
+}
+body {
+	background-image: url(images/background.jpg); 
+}
+body {
+  font-family: Times, serif;
+  text-align: center;
+	;
+	font-weight: bold
+}
+
+#photoprofile {
+	width: 100px ;
+	border-radius: 50%;
+}
+
+div {
+	background: white;
+	border : 2px solid black;
+	margin: 10px;
+	
+}
